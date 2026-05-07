@@ -1,0 +1,215 @@
+assets by path [1m[32mstatic/assets/*.png[39m[22m 44.2 MiB 1304 assets
+assets by path [1m[32mstatic/assets/*.gif[39m[22m 14.7 MiB 160 assets
+assets by path [1m[32mstatic/blocks-media/[39m[22m 377 KiB 147 assets
+assets by path [1m[32mchunks/[39m[22m 14.7 MiB 30 assets
+assets by path [1m[32mstatic/assets/*.jpg[39m[22m 3.15 MiB 24 assets
+assets by path [1m[32m../dist/types/[39m[22m 25 KiB 16 assets
+assets by path [1m[32mstatic/assets/*.svg[39m[22m 241 KiB 12 assets
+assets by path [1m[32m*.js[39m[22m 159 MiB
+  asset [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32m[emitted][39m[22m (name: guistandalone) 1 related asset
+  + 5 assets
+assets by path [1m[32m*.html[39m[22m 1.82 KiB
+  asset [1m[32mcompatibility-testing.html[39m[22m 388 bytes [1m[32m[emitted][39m[22m
+  + 4 assets
++ 6 assets
+orphan modules 420 KiB [1m[33m[orphan][39m[22m 143 modules
+runtime modules 160 KiB 95 modules
+modules by path [1m./[39m[22m 62.3 MiB (asset) 3.81 MiB (javascript) 2206 modules
+modules by path [1m../../node_modules/[39m[22m 24.4 MiB
+  javascript modules 24.1 MiB 1672 modules
+  asset modules 91 KiB 48 modules
+  json modules 236 KiB
+    modules by path [1m../../node_modules/@scratch/scratch-vm/[39m[22m 65.8 KiB 10 modules
+    modules by path [1m../../node_modules/scratch-parser/[39m[22m 14.3 KiB 8 modules
+    + 3 modules
+[1mreadable-stream (ignored)[39m[22m 15 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mnode-fetch (ignored)[39m[22m 15 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mutil (ignored)[39m[22m 15 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mcrypto (ignored)[39m[22m 15 bytes [1m[33m[optional][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 42979 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 1.76 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.12cb12b36ff498bd2758.hot-update.js[39m[22m 380 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.12cb12b36ff498bd2758.hot-update.js[39m[22m 366 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.12cb12b36ff498bd2758.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.12cb12b36ff498bd2758.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.12cb12b36ff498bd2758.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.12cb12b36ff498bd2758.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.12cb12b36ff498bd2758.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.12cb12b36ff498bd2758.hot-update.js[39m[22m 346 bytes 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.12cb12b36ff498bd2758.hot-update.js[39m[22m 366 bytes 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.7 MiB (44.5 MiB) = [1m[32mblocksonly.js[39m[22m 31.7 MiB [1m[32mblocksonly.12cb12b36ff498bd2758.hot-update.js[39m[22m 360 bytes 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.7 MiB (44.5 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.12cb12b36ff498bd2758.hot-update.js[39m[22m 380 bytes 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.7 MiB (44.5 MiB) = [1m[32mplayer.js[39m[22m 31.7 MiB [1m[32mplayer.12cb12b36ff498bd2758.hot-update.js[39m[22m 352 bytes 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4094 modules
+runtime modules 160 KiB 95 modules
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8311 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 304 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.f89ad89eb5a46edb405a.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.f89ad89eb5a46edb405a.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.f89ad89eb5a46edb405a.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.f89ad89eb5a46edb405a.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.f89ad89eb5a46edb405a.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.7 MiB [1m[32mblocksonly.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.7 MiB [1m[32mplayer.f89ad89eb5a46edb405a.hot-update.js[39m[22m 60.7 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+[1m./src/components/menu-bar/menu-bar.jsx[39m[22m 33.5 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8909 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 160 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 160 MiB
+    assets by info 318 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.a02a9b022d008a7112e8.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.a02a9b022d008a7112e8.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.a02a9b022d008a7112e8.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.a02a9b022d008a7112e8.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.a02a9b022d008a7112e8.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32.1 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.7 MiB [1m[32mblocksonly.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.a02a9b022d008a7112e8.hot-update.js[39m[22m 63.6 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+[1m./src/components/menu-bar/menu-bar.jsx[39m[22m 35.3 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8358 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 130 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.92553704c9031c46d65f.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.92553704c9031c46d65f.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.92553704c9031c46d65f.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.92553704c9031c46d65f.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.92553704c9031c46d65f.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.8 MiB [1m[32mblocksonly.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.5 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.92553704c9031c46d65f.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]![1m./src/components/menu-bar/menu-bar.css[39m[22m 24.5 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 7412 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 130 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 26 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 25.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.5ae8423ad383c6f90ca4.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.5ae8423ad383c6f90ca4.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.5ae8423ad383c6f90ca4.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.5ae8423ad383c6f90ca4.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.5ae8423ad383c6f90ca4.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.8 MiB [1m[32mblocksonly.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.5 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 26 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.5ae8423ad383c6f90ca4.hot-update.js[39m[22m 25.9 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]![1m./src/components/menu-bar/menu-bar.css[39m[22m 24.5 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 7042 ms
+assets by status 239 MiB [1m[32m[cached][39m[22m 1694 assets
+cached modules 28.7 MiB (javascript) 62.3 MiB (asset) 160 KiB (runtime) [1m[32m[cached][39m[22m 4189 modules
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 2029 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 112 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.0af7ebbc76ee234f558b.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.0af7ebbc76ee234f558b.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.0af7ebbc76ee234f558b.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.0af7ebbc76ee234f558b.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.0af7ebbc76ee234f558b.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.5 MiB) = [1m[32mblocksonly.js[39m[22m 31.8 MiB [1m[32mblocksonly.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.5 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.5 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.0af7ebbc76ee234f558b.hot-update.js[39m[22m 22.3 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+[1m./src/lib/libraries/extensions/index.jsx[39m[22m 12.7 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8245 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 160 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 160 MiB
+    assets by info 324 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.bc5aab0a91ed45a4a1a3.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.bc5aab0a91ed45a4a1a3.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.bc5aab0a91ed45a4a1a3.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.bc5aab0a91ed45a4a1a3.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.bc5aab0a91ed45a4a1a3.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.8 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32.1 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.9 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.8 MiB [1m[32mblocksonly.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.9 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.9 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.bc5aab0a91ed45a4a1a3.hot-update.js[39m[22m 64.8 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+[1m./src/components/menu-bar/menu-bar.jsx[39m[22m 36 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8679 ms
+assets by status 79.9 MiB [1m[32m[cached][39m[22m 1689 assets
+assets by status 159 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 159 MiB
+    assets by info 146 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mcompatibilitytesting.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: compatibilitytesting) 1 related asset
+      asset [1m[32mguistandalone.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: guistandalone) 1 related asset
+      + 3 assets
+    + 5 assets
+  assets by path [1m[32m*.json[39m[22m 172 bytes
+    asset [1m[32mcompatibilitytesting.470f2c00c00be98b44d7.hot-update.json[39m[22m 44 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mguistandalone.470f2c00c00be98b44d7.hot-update.json[39m[22m 37 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mblocksonly.470f2c00c00be98b44d7.hot-update.json[39m[22m 34 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mplayer.470f2c00c00be98b44d7.hot-update.json[39m[22m 30 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mgui.470f2c00c00be98b44d7.hot-update.json[39m[22m 27 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mgui[39m[22m 32 MiB (44.8 MiB) = [1m[32mgui.js[39m[22m 32 MiB [1m[32mgui.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB 211 auxiliary assets
+Entrypoint [1mguistandalone[39m[22m 32 MiB (44.8 MiB) = [1m[32mguistandalone.js[39m[22m 32 MiB [1m[32mguistandalone.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB 211 auxiliary assets
+Entrypoint [1mblocksonly[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mblocksonly.js[39m[22m 31.8 MiB [1m[32mblocksonly.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB 211 auxiliary assets
+Entrypoint [1mcompatibilitytesting[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mcompatibilitytesting.js[39m[22m 31.7 MiB [1m[32mcompatibilitytesting.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB 211 auxiliary assets
+Entrypoint [1mplayer[39m[22m 31.8 MiB (44.6 MiB) = [1m[32mplayer.js[39m[22m 31.8 MiB [1m[32mplayer.470f2c00c00be98b44d7.hot-update.js[39m[22m 29.2 KiB 211 auxiliary assets
+cached modules 28.6 MiB (javascript) 62.3 MiB (asset) [1m[32m[cached][39m[22m 4093 modules
+runtime modules 160 KiB 95 modules
+../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]![1m./src/components/menu-bar/menu-bar.css[39m[22m 27.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.2 compiled [1m[32msuccessfully[39m[22m in 8241 ms
