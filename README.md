@@ -1,5 +1,7 @@
 ﻿# CodexMod
 
+notice: full mod hasnt been uploaded to github yet.
+
 CodexMod is an experimental Scratch editor mod built from the Scratch editor monorepo. It keeps the familiar Scratch-style editor, then adds custom visual settings, extra block experiments, editor polish, and mod-specific branding.
 
 Current version: **1.0**
